@@ -53,6 +53,7 @@ namespace LogicaDeProgramacao.Exercicios.Variaveis
             }
             media /= 10; //calcula a média
             Console.WriteLine($"A média dos números é: {media}");
+            
 
             
         }
