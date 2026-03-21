@@ -1,5 +1,5 @@
 # C# Exercises 🚀
-primeiro repositório versionado
+# First versioned repository
 
-Repositório criado para armazenar meus estudos e exercícios em **C#**.  
-Aqui estão práticas de algoritmos, estruturas de controle, matrizes e outros conceitos fundamentais da linguagem.
+This repository was created to store my C# studies and exercises.
+It includes practice with algorithms, control structures, matrices, and other fundamental concepts of the language.
